@@ -1,0 +1,9 @@
+{
+  "app": {
+    "port": 3000
+  },
+  "database": {
+    "uri": "postgres://postgres:postgres@localhost:5432/local_db",
+    "logging": false
+  }
+}

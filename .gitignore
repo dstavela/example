@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# JetBrains
+.idea
+
+# Config
+config/local.json
+
+# npm
+package-lock.json
